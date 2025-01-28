@@ -2,9 +2,9 @@
 <h3 align="center">A passionate frontend developer from India and currently looking for some experience</h3>
 
 
-- 🔭 I’m currently working on **CMS and my custom os in rust**
+- 🔭 I’m currently working on **CMS and my KV store in Go**
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Go**
 
 - 💬 Ask me about **Web development**
 
