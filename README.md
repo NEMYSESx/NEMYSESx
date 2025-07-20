@@ -1,6 +1,5 @@
-<h1 align="center">Hi, I'm Shakir</h1>
+<h1 align="center">Yoo</h1>
 
-₍^. .^₎⟆
 
              ／＞　 フ
             | 　_　_| 
